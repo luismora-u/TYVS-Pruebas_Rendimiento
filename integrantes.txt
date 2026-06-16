@@ -1,0 +1,6 @@
+Proyecto de Pruebas de Rendimiento y Carga (Registraduria) - Entrega individual
+Testing y Validacion de Software - Unidad 5 (Validacion y verificacion de resultados)
+Maestria en Ingenieria de Software - Universidad de La Sabana
+
+Estudiante:
+- Luis Mora - luismorlo@unisabana.edu.co

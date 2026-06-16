@@ -1,0 +1,16 @@
+# JMeter
+jmeter.log
+*.jtl.bak
+
+# Logs temporales
+*.tmp
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+
+# SO
+Thumbs.db
+.DS_Store
