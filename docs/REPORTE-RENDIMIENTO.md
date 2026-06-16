@@ -261,6 +261,11 @@ Para verlos, abrir cualquiera de esos `index.html` en un navegador. Las capturas
 del proceso de ejecución y de los dashboards se encuentran en
 [`docs/capturas/`](capturas/) (ver `docs/capturas/README.md` para la guía de capturas).
 
+**Ejemplo — Dashboard del escenario de estrés (250 usuarios):** se observa el 66.88 % de
+errores (`BindException` del cliente) y la tabla de estadísticas con los percentiles.
+
+![Dashboard JMeter - escenario estrés](capturas/03-estres-dashboard.png)
+
 ---
 
 ## 11. Conclusión
